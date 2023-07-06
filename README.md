@@ -6,9 +6,7 @@ This is a sample website for "The Resin Studio," a newly opened resin business. 
 
 - [Features](#features)
 - [Color Theme](#color-theme)
-- [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
